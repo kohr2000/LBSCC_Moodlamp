@@ -15,11 +15,6 @@ int colors[] = {
   0, 0, 255,
 };
 
-int color1[]={0,255,0};
-int color2[]={0,0,255};
-int color3[]={255,0,0};
-int color4[]={0,0,0};
-
 // you can adjust the speed that the colors change (from 1-100)
 // putting 0 or negative numbers will cause the LED to not light up
 #define SPEED 5
